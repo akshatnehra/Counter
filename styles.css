@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  background-color: rgb(227, 255, 246);
+}
+
+h3 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 6rem;
+  margin-bottom: 1.5rem;
+}
+
+button {
+  border-radius: 6px;
+  font-family: Arial;
+  color: #000000;
+  border-width: 0.1rem;
+  border-color: #000000;
+  font-size: 20px;
+  background: #e5f5ff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-right: 0.75rem;
+}
